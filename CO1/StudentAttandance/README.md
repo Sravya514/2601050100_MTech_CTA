@@ -1,5 +1,5 @@
 
-# 📝 Student Attendance System
+
 
 ## Description
 
