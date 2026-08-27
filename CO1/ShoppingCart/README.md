@@ -22,16 +22,18 @@ The script manages the cart using basic data structures (like lists or dictionar
 
 ### Output
 
---
+
 	ONLINE SHOPPING CART SYSTEM
---
+
 1. Display Products
 2. Add Product
 3. Remove Product
 4. Display Cart
 5. Generate Final Bill
 6. Exit
---
+
+
+
 2
 - Available Products -
 Smartwatch - ₹ 8000
@@ -40,29 +42,33 @@ Tablet - ₹ 25000
 Power Bank - ₹ 1200
 Earbuds - ₹ 4500
 
---
+
+
+
 	ONLINE SHOPPING CART SYSTEM
---
 1. Display Products
 2. Add Product
 3. Remove Product
 4. Display Cart
 5. Generate Final Bill
 6. Exit
---
+
+
 7
 Invalid choice! Please try again.
 
---
+
 	ONLINE SHOPPING CART SYSTEM
---
+
 1. Display Products
 2. Add Product
 3. Remove Product
 4. Display Cart
 5. Generate Final Bill
 6. Exit
---
+
+
+4
 - Available Products -
 Smartwatch - ₹ 8000
 Bluetooth Speaker - ₹ 3500
