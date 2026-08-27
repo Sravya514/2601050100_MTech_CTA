@@ -18,17 +18,53 @@ The script manages the cart using basic data structures (like lists or dictionar
    * Multiply the item's price by its quantity and add it to `total_cost`.
 5. **Output:** Return or print the final `total_cost` and a summary of the cart.
 ### Input
-
-
-Enter product: Apple
-
-Enter quantity: 2
-
+*(Interactive command-line inputs simulating user choices, e.g., choosing '1' to display products, choosing a bad input, and choosing '2' to add 2 Smartwatches).*
 
 ### Output
 
+--
+	ONLINE SHOPPING CART SYSTEM
+--
+1. Display Products
+2. Add Product
+3. Remove Product
+4. Display Cart
+5. Generate Final Bill
+6. Exit
+--
+- Available Products -
+Smartwatch - ₹ 8000
+Bluetooth Speaker - ₹ 3500
+Tablet - ₹ 25000
+Power Bank - ₹ 1200
+Earbuds - ₹ 4500
 
-Product added to cart.
+--
+	ONLINE SHOPPING CART SYSTEM
+--
+1. Display Products
+2. Add Product
+3. Remove Product
+4. Display Cart
+5. Generate Final Bill
+6. Exit
+--
+Invalid choice! Please try again.
 
-Total: 100
-
+--
+	ONLINE SHOPPING CART SYSTEM
+--
+1. Display Products
+2. Add Product
+3. Remove Product
+4. Display Cart
+5. Generate Final Bill
+6. Exit
+--
+- Available Products -
+Smartwatch - ₹ 8000
+Bluetooth Speaker - ₹ 3500
+Tablet - ₹ 25000
+Power Bank - ₹ 1200
+Earbuds - ₹ 4500
+2 Smartwatch added to cart.
