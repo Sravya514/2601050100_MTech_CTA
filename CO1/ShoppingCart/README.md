@@ -32,6 +32,7 @@ The script manages the cart using basic data structures (like lists or dictionar
 5. Generate Final Bill
 6. Exit
 --
+2
 - Available Products -
 Smartwatch - ₹ 8000
 Bluetooth Speaker - ₹ 3500
@@ -49,6 +50,7 @@ Earbuds - ₹ 4500
 5. Generate Final Bill
 6. Exit
 --
+7
 Invalid choice! Please try again.
 
 --
