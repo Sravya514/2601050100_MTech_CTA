@@ -1,20 +1,45 @@
-
 # Books Binary Search
 
 ## Description
-This project contains a Python script that implements a binary search algorithm to find a specific book within a virtual library. The library is represented by a list of numbers ranging from 1 to 1,000,000. 
+
+This project contains a Python script that implements the **Binary Search algorithm** to find a specific book in a virtual library. The library is represented by a list of numbers ranging from **1 to 1,000,000**.
 
 ## How It Works
-The code uses a function called `Library(target)` to perform the search. It takes the target book number as input and searches through the array using the binary search method:
-* It sets `low` and `high` pointers to track the search boundaries.
-* It calculates the `mid` point and compares it to the target.
-* If the book is found, it returns the index position of the book.
-* If the book is not found after narrowing down the search, it returns -1.
+
+The code uses a function called `Library(target)` to perform the search. It takes the target book number as input and searches for it using the binary search method.
+
+The algorithm:
+
+* Sets `low` and `high` pointers to define the search boundaries.
+* Calculates the `mid` point between `low` and `high`.
+* Compares the value at `mid` with the target.
+* If the book is found, it returns the index of the book.
+* If the target is smaller than the middle value, it searches the left half.
+* If the target is larger than the middle value, it searches the right half.
+* If the book is not found, it returns `-1`.
 
 ## Usage
-When the script is executed, it prompts the user with the question: "what book do you want to find:". The user must enter an integer. The program will then print either the location index of the book (e.g., "book is at: 74999") or a "book not found" message.
 
-## Output
-Below are the output images demonstrating the execution and results of the program:
+When the script is executed, it prompts the user with:
 
-<img width="419" height="304" alt="image" src="https://github.com/user-attachments/assets/97c31220-d497-4133-aa3a-c2cf29602f66" />
+```text
+What book do you want to find:
+```
+
+The user must enter an integer. The program then prints the index position of the book if it is found. Otherwise, it displays a **book not found** message.
+
+## Input and Output
+
+### Input
+
+```text
+What book do you want to find: 7500
+```
+
+### Output
+
+```text
+Book at: 7499
+```
+
+> **Note:** The output is `7499` because Python uses **zero-based indexing**. The book numbered `7500` is stored at index `7499`.
