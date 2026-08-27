@@ -17,4 +17,4 @@ When the script is executed, it prompts the user with the question: "what book d
 ## Output
 Below are the output images demonstrating the execution and results of the program:
 
-[Insert Output Images Here]
+<img width="419" height="304" alt="image" src="https://github.com/user-attachments/assets/97c31220-d497-4133-aa3a-c2cf29602f66" />
