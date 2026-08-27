@@ -1,5 +1,4 @@
 
-# 📝 Student Position System (Closest Pair)
 
 ## Description
 
@@ -18,11 +17,7 @@ The core logic of the system follows this step-by-step algorithm:
 
 ## Input and Output
 
-### Input
 
-*(Pre-defined student coordinate data provided within the script)*
-
-### Output
 
 --- Student Positions ---<br>
 Ravi : (2, 3)<br>
