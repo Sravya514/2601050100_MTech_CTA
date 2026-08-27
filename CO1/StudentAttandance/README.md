@@ -21,11 +21,7 @@ The core logic of the system follows this step-by-step algorithm:
 
 ## Input and Output
 
-### Input
 
-*(Pre-defined student data retrieved via the `get_student_data()` function within the script)*
-
-### Output
 
 ----- Student Attendance Report -----<br>
 sravya: 93.33%<br>
