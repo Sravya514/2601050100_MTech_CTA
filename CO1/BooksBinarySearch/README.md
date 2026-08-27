@@ -20,12 +20,12 @@ The algorithm:
 
 ## Usage
 
-When the script is executed, it prompts the user with:
+When the script is executed it prompts the user with:
 
 
 What book do you want to find:
 
-The user must enter an integer. The program then prints the index position of the book if it is found. Otherwise, it displays a **book not found** message.
+The user must enter an integer. The program then prints the index position of the book if it is found. Otherwise it displays a **book not found** message.
 
 ## Input and Output
 
