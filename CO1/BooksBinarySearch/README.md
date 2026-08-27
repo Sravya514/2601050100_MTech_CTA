@@ -16,13 +16,8 @@ The script uses a `Library(target)` function to locate the book efficiently. The
    * **Search Right:** If the target is larger than the value at `mid`, the book must be in the right half. Update the `low` pointer to `mid + 1`.
 3. **Not Found:** If the loop concludes without finding the target, return `-1` to indicate the book is not in the library.
 
-## Usage
 
-When the script is executed, it prompts the user with:
 
-What book do you want to find:
-
-The user must enter an integer. The program then prints the index position of the book if it is found. Otherwise, it displays a **book not found** message.
 
 ## Input and Output
 
