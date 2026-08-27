@@ -17,10 +17,7 @@ The script manages the cart using basic data structures . The step-by-step algor
    * Loop through each item currently in the cart.
    * Multiply the item's price by its quantity and add it to `total_cost`.
 5. **Output:** Return or print the final `total_cost` and a summary of the cart.
-### Input
-*(Interactive command-line inputs simulating user choices, e.g., choosing '1' to display products, choosing a bad input, and choosing '2' to add 2 Smartwatches).*
-
-### Output
+### Input && Output
 
 
 	ONLINE SHOPPING CART SYSTEM
