@@ -5,24 +5,18 @@
 
 This project contains a Python program that implements a simple **Shopping Cart** system. It allows users to add products to a cart, manage the items, and calculate the total price.
 
-## How It Works
+## Algorithm
 
-The program uses Python functions and basic data structures to manage the shopping cart.
+The script manages the cart using basic data structures (like lists or dictionaries). The step-by-step algorithm is as follows:
 
-The program:
-
-* Displays available products.
-* Allows the user to add products to the cart.
-* Stores the selected products and their quantities.
-* Calculates the total cost of the items.
-* Displays the final shopping cart and total amount.
-
-## Usage
-
-When the script is executed, the user can select products and add them to the shopping cart. The program then calculates and displays the total price.
-
-## Input and Output
-
+1. **Initialize:** Create an empty list or dictionary to represent the shopping cart.
+2. **Add Items:** When a user adds an item, capture the item's name, price, and quantity. Append this data as a record to the cart structure.
+3. **View Cart:** Iterate through the cart data structure and display each item's name, price, quantity, and subtotal.
+4. **Calculate Total:** 
+   * Initialize a `total_cost` variable to 0.
+   * Loop through each item currently in the cart.
+   * Multiply the item's price by its quantity and add it to `total_cost`.
+5. **Output:** Return or print the final `total_cost` and a summary of the cart.
 ### Input
 
 
