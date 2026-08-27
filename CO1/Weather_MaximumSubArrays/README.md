@@ -20,7 +20,7 @@ The core logic of the system follows this step-by-step algorithm:
 ### Input
 
 
-`[3, -1, 4, 2, -2, 5, -6]`
+[3, -1, 4, 2, -2, 5, -6]
 
 ### Output
 
