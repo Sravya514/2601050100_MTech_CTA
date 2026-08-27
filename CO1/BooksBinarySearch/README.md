@@ -22,9 +22,8 @@ The algorithm:
 
 When the script is executed, it prompts the user with:
 
-```text
+
 What book do you want to find:
-```
 
 The user must enter an integer. The program then prints the index position of the book if it is found. Otherwise, it displays a **book not found** message.
 
