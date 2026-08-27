@@ -20,7 +20,7 @@ The script manages the cart using basic data structures . The step-by-step algor
 ### Input && Output
 
 
-	ONLINE SHOPPING CART SYSTEM
+ONLINE SHOPPING CART SYSTEM
 
 1. Display Products
 2. Add Product
@@ -42,7 +42,7 @@ Earbuds - ₹ 4500
 
 
 
-	ONLINE SHOPPING CART SYSTEM
+ONLINE SHOPPING CART SYSTEM
 1. Display Products
 2. Add Product
 3. Remove Product
@@ -54,8 +54,7 @@ Earbuds - ₹ 4500
 7
 Invalid choice! Please try again.
 
-
-	ONLINE SHOPPING CART SYSTEM
+ONLINE SHOPPING CART SYSTEM
 
 1. Display Products
 2. Add Product
