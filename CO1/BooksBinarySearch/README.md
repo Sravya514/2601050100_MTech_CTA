@@ -31,15 +31,9 @@ The user must enter an integer. The program then prints the index position of th
 ## Input and Output
 
 ### Input
-
-```text
 What book do you want to find: 7500
-```
 
 ### Output
-
-```text
 Book at: 7499
-```
 
-> **Note:** The output is `7499` because Python uses **zero-based indexing**. The book numbered `7500` is stored at index `7499`.
+
