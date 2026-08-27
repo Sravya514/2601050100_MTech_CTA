@@ -29,9 +29,21 @@ movies = [
     ("Avatar", 7.8),
     ("The Dark Knight", 9.0)
 ]
+
+
 --- Top Rated Movies First ---
+
+
 The Dark Knight : 9.0
+
+
 Inception : 8.8
+
+
 Interstellar : 8.6
+
+
 Titanic : 7.9
+
+
 Avatar : 7.8
