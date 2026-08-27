@@ -7,7 +7,7 @@ This project contains a Python program that implements a simple **Shopping Cart*
 
 ## Algorithm
 
-The script manages the cart using basic data structures (like lists or dictionaries). The step-by-step algorithm is as follows:
+The script manages the cart using basic data structures . The step-by-step algorithm is as follows:
 
 1. **Initialize:** Create an empty list or dictionary to represent the shopping cart.
 2. **Add Items:** When a user adds an item, capture the item's name, price, and quantity. Append this data as a record to the cart structure.
