@@ -34,12 +34,15 @@ The user can select an option and enter the vehicle number when required.
 
 ### Input
 Enter choice: 2
+
 Enter vehicle number: ap22idhnr
 
 ### Output
 Vehicle ap22idhnr assigned to slot 1.
 
 When the vehicle exits:
+
 Vehicle ap22idhnr left slot 1.
+
 Duration: 1 hour(s) | Fee: 20 currency units
 
