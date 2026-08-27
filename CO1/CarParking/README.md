@@ -4,31 +4,23 @@
 
 This project contains a Python script that implements a simple **Parking Management System**. It manages **100 parking slots**, assigns available slots to vehicles, and calculates parking fees when vehicles leave.
 
-## How It Works
+## Algorithm
 
-The program uses functions, dictionaries, and sets to manage the parking area.
+The core logic of the system follows this step-by-step algorithm:
 
-The system:
+1. **Start**
+2. **Display Availability slots:** Check and show the current number of available slots.
+3. **Read vehicle number:** Capture the required details (number plate) for the vehicle.
+4. **Check whether parking is available:** Check if there is at least one empty slot out of the 100.
+5. **Assign or Reject:**
+   * **If slot available:** Assign a slot to the vehicle and record the entry time.
+   * **Else:** Display a message stating that the parking is full.
+6. **When vehicle exits:**
+   * Find the vehicle in the records.
+   * Calculate the parking duration (using entry and exit times).
+   * Calculate the parking fee.
+   * Update availability (free up the parking slot).
 
-* Displays available parking slots.
-* Assigns the first available slot to a vehicle.
-* Records the vehicle's entry time.
-* Prevents the same vehicle from being parked twice.
-* Calculates the parking fee when the vehicle exits.
-* Releases the slot after the vehicle leaves.
-
-## Usage
-
-When the script is executed, it displays a menu:
-
-
-1. Display Availability
-2. Vehicle Entry
-3. Vehicle Exit
-4. Exit Program
-
-
-The user can select an option and enter the vehicle number when required.
 
 ## Input and Output
 
